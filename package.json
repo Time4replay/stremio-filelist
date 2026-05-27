@@ -1,7 +1,7 @@
 {
   "name": "stremio-filelist",
   "version": "1.0.0",
-  "description": "Stremio addon pentru FileList.io",
+  "description": "Stremio addon pentru FileList.io cu magnet links",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
